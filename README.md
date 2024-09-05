@@ -23,5 +23,5 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vardhaman3088&show_icons=true&locale=en&layout=compact" width="300" height="203" alt="vardhaman3088" />
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vardhaman3088&" height="200" alt="vardhaman3088" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vardhaman3088&" width="400" height="200" alt="vardhaman3088" />
 
